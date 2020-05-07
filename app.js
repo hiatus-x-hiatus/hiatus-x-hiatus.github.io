@@ -249,7 +249,7 @@ var app = new Vue({
             });
 
             window.disqus_config = function () {
-                if (BASE_NAME === "/test") {
+                if (BASE_NAME === "/no") {
                     this.page.url = "https://hiatus-hiatus.rhcloud.com/";
                 }
                 else {
