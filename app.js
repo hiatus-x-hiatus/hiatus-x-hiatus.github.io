@@ -2,7 +2,7 @@ var BASE_NAME = "/" + window.location.pathname.split('/')[1];
 
 
 if (BASE_NAME === "/" || BASE_NAME === "/index.html") {
-    BASE_NAME = "/HunterXHunter";
+    BASE_NAME = "/JJBA";
     document.getElementById("custom_style").href = BASE_NAME + "/style.css";
 }
 
@@ -249,11 +249,11 @@ var app = new Vue({
             });
 
             window.disqus_config = function () {
-                if (BASE_NAME === "/HunterXHunter") {
+                if (BASE_NAME === "/JJBA") {
                     this.page.url = "https://hiatus-hiatus.rhcloud.com/";
                 }
                 else {
-                    this.page.url = "https://hiatus-hiatus.github.io" + BASE_NAME;
+                    this.page.url = "https://hiatus-x-hiatus.github.io" + BASE_NAME;
                 }
             };
             (function () {
