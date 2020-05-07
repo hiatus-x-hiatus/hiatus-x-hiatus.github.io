@@ -10,80 +10,64 @@
     background-color: #3F51B5;
 }
 
-.h-row:hover .hunter-exam {
+.h-row:hover .part1 {
     background-color: #1A237E;
 }
 
-.zoldyck {
+.part2 {
     background-color: #009688;
 }
 
-.h-row:hover .zoldyck {
+.h-row:hover .part2 {
     background-color: #004D40;
 }
 
-.heavens-arena {
+.part3 {
     background-color: #FFC107;
 }
 
-.h-row:hover .heavens-arena {
+.h-row:hover .part3 {
     background-color: #FF6F00;
 }
 
-.yorknew {
+.part4 {
     background-color: #4CAF50;
 }
 
-.h-row:hover .yorknew {
+.h-row:hover .part4 {
     background-color: #43A047;
 }
 
-.greed-island {
+.part5 {
     background-color: #FF5722;
 }
 
-.h-row:hover .greed-island {
+.h-row:hover .part5 {
     background-color: #F4511E;
 }
 
-.chimera-ant {
+.part6 {
     background-color: #9C27B0;
 }
 
-.h-row:hover .chimera-ant {
+.h-row:hover .part6 {
     background-color: #7B1FA2;
 }
 
-.election {
+.part7 {
     background-color: #E91E63;
 }
 
-.h-row:hover .election {
+.h-row:hover .part7 {
     background-color: #C2185B;
 }
 
-.dc {
+.part8 {
     background-color: #607D8B;
 }
 
-.h-row:hover .dc {
+.h-row:hover .part8 {
     background-color: #546E7A;
-}
-
-.oneshot {
-    background-color: #F44336;
-}
-
-.h-row:hover .oneshot {
-    background-color: #B71C1C;
-}
-
-.succ-war {
-    background-color: #cddc39;
-}
-
-.h-row:hover .succ-war {
-    background-color: #b5c434;
 }
 
 /*add a margin to the last row*/
