@@ -6113,8 +6113,8 @@
   },
   {
     "number": 14,
-    "year": 1998,
-    "arc": "hunter-exam",
+    "year": 1987,
+    "arc": "part1",
     "released": true,
     "chapter": 1
   }
