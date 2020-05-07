@@ -1,5 +1,20 @@
 [
    {
+      "number":52,
+      "year":1988,
+      "released":false
+   },
+   {
+      "number":51,
+      "year":1988,
+      "released":false
+   },
+   {
+      "number":50,
+      "year":1988,
+      "released":false
+   },
+   {
       "number":49,
       "year":1988,
       "arc":"part2",
