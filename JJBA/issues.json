@@ -1,5 +1,52 @@
 [
    {
+      "number":49,
+      "year":1988,
+      "arc":"part2",
+      "released":true,
+      "chapter":7
+   },
+   {
+      "number":48,
+      "year":1988,
+      "released":false
+   },
+   {
+      "number":47,
+      "year":1988,
+      "released":false
+   },
+   {
+      "number":46,
+      "year":1988,
+      "released":false
+   },
+   {
+      "number":45,
+      "year":1988,
+      "released":false
+   },
+   {
+      "number":44,
+      "year":1988,
+      "released":false
+   },
+   {
+      "number":43,
+      "year":1988,
+      "released":false
+   },
+   {
+      "number":42,
+      "year":1988,
+      "released":false
+   },
+   {
+      "number":41,
+      "year":1988,
+      "released":false
+   },
+   {
       "number":40,
       "year":1988,
       "arc":"part2",
