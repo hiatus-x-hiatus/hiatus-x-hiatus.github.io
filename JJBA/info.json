@@ -1,0 +1,39 @@
+{
+  "series_name": "JoJos Bizzare Adventure",
+  "ongoing": true,
+  "major_hiatus_threshold": 4,
+  "arcs": [
+    {
+      "key": "part1",
+      "name": "Phantom Blood"
+    },
+    {
+      "key": "part2",
+      "name": "Battle Tendancy"
+    },
+    {
+      "key": "part3",
+      "name": "Stardust Crusaders"
+    },
+    {
+      "key": "part4",
+      "name": "Diamond is Unbreakable"
+    },
+    {
+      "key": "part5",
+      "name": "Vento Aureo / Golden Wind"
+    },
+    {
+      "key": "part6",
+      "name": "Stone Ocean"
+    },
+    {
+      "key": "part7",
+      "name": "Steel Ball Run"
+    },
+    {
+      "key": "part8",
+      "name": "Jojolion"
+    }
+  ]
+}
