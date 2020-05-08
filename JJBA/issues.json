@@ -515,39 +515,53 @@
       "released":false
    },
    {
-      "number":52,
-      "year":1987,
-      "released":false
-   },
-   {
-      "number":53,
-      "year":1987,
-      "released":false
+      "number":1,
+      "year":1988,
+      "arc":"part2",
+      "released":true,
+      "chapter":51
    },
    {
       "number":52,
       "year":1987,
-      "released":false
+      "arc":"part2",
+      "released":true,
+      "chapter":50
    },
    {
       "number":51,
       "year":1987,
-      "released":false
+      "arc":"part2",
+      "released":true,
+      "chapter":49
    },
    {
       "number":50,
       "year":1987,
-      "released":false
+      "arc":"part2",
+      "released":true,
+      "chapter":48
    },
    {
       "number":49,
       "year":1987,
-      "released":false
+      "arc":"part2",
+      "released":true,
+      "chapter":47
    },
    {
       "number":48,
       "year":1987,
-      "released":false
+      "arc":"part2",
+      "released":true,
+      "chapter":46
+   },
+   {
+      "number":47,
+      "year":1987,
+      "arc":"part2",
+      "released":true,
+      "chapter":45
    },
    {
       "number":46,
