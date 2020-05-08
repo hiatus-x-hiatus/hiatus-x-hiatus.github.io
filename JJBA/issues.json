@@ -1,10 +1,23 @@
 [
    {
+      "number":52,
+      "year":1989,
+      "released":false
+   },
+   {
+      "number":51,
+      "year":1989,
+      "released":false
+   },
+   {
+      "number":50,
+      "year":1989,
+      "released":false
+   },
+   {
       "number":49,
       "year":1989,
-      "arc":"part3",
-      "released":true,
-      "chapter":13
+      "released":false
    },
    {
       "number":48,
@@ -44,9 +57,7 @@
    {
       "number":41,
       "year":1989,
-      "arc":"part2",
-      "released":true,
-      "chapter":12
+      "released":false
    },
    {
       "number":40,
@@ -91,9 +102,7 @@
    {
       "number":32,
       "year":1989,
-      "arc":"part2",
-      "released":true,
-      "chapter":11
+      "released":false
    },
    {
       "number":31,
@@ -138,9 +147,7 @@
    {
       "number":23,
       "year":1989,
-      "arc":"part2",
-      "released":true,
-      "chapter":10
+      "released":false
    },
    {
       "number":22,
@@ -180,9 +187,7 @@
    {
       "number":15,
       "year":1989,
-      "arc":"part2",
-      "released":true,
-      "chapter":9
+      "released":false
    },
    {
       "number":14,
@@ -227,9 +232,7 @@
    {
       "number":6,
       "year":1989,
-      "arc":"part2",
-      "released":true,
-      "chapter":8
+      "released":false
    },
    {
       "number":5,
@@ -274,9 +277,7 @@
    {
       "number":49,
       "year":1988,
-      "arc":"part2",
-      "released":true,
-      "chapter":7
+      "released":false
    },
    {
       "number":48,
@@ -321,9 +322,7 @@
    {
       "number":40,
       "year":1988,
-      "arc":"part2",
-      "released":true,
-      "chapter":6
+      "released":false
    },
    {
       "number":39,
@@ -363,9 +362,7 @@
    {
       "number":32,
       "year":1988,
-      "arc":"part1",
-      "released":true,
-      "chapter":5
+      "released":false
    },
    {
       "number":31,
@@ -410,9 +407,7 @@
    {
       "number":23,
       "year":1988,
-      "arc":"part1",
-      "released":true,
-      "chapter":4
+      "released":false
    },
    {
       "number":22,
@@ -457,9 +452,7 @@
    {
       "number":14,
       "year":1988,
-      "arc":"part1",
-      "released":true,
-      "chapter":3
+      "released":false
    },
    {
       "number":13,
@@ -522,11 +515,9 @@
       "released":false
    },
    {
-      "number":1,
-      "year":1988,
-      "arc":"part1",
-      "released":true,
-      "chapter":2
+      "number":52,
+      "year":1987,
+      "released":false
    },
    {
       "number":53,
@@ -559,72 +550,318 @@
       "released":false
    },
    {
-      "number":47,
-      "year":1987,
-      "released":false
-   },
-   {
       "number":46,
       "year":1987,
-      "released":false
+      "arc":"part1",
+      "released":true,
+      "chapter":44
    },
    {
       "number":45,
       "year":1987,
-      "released":false
+      "arc":"part1",
+      "released":true,
+      "chapter":43
    },
    {
       "number":44,
       "year":1987,
-      "released":false
+      "arc":"part1",
+      "released":true,
+      "chapter":42
    },
    {
       "number":43,
       "year":1987,
-      "released":false
+      "arc":"part1",
+      "released":true,
+      "chapter":41
    },
    {
       "number":42,
       "year":1987,
-      "released":false
+      "arc":"part1",
+      "released":true,
+      "chapter":40
    },
    {
       "number":41,
       "year":1987,
-      "released":false
+      "arc":"part1",
+      "released":true,
+      "chapter":39
    },
    {
-      "number":48,
+      "number":40,
       "year":1987,
-      "released":false
+      "arc":"part1",
+      "released":true,
+      "chapter":38
    },
    {
       "number":39,
       "year":1987,
-      "released":false
+      "arc":"part1",
+      "released":true,
+      "chapter":37
    },
    {
       "number":38,
       "year":1987,
-      "released":false
+      "arc":"part1",
+      "released":true,
+      "chapter":36
    },
    {
       "number":37,
       "year":1987,
-      "released":false
+      "arc":"part1",
+      "released":true,
+      "chapter":35
    },
    {
       "number":36,
       "year":1987,
-      "released":false
+      "arc":"part1",
+      "released":true,
+      "chapter":34
    },
    {
       "number":35,
       "year":1987,
-      "released":false
+      "arc":"part1",
+      "released":true,
+      "chapter":33
+   },
+   {
+      "number":34,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":32
    },
    {
       "number":33,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":31
+   },
+   {
+      "number":32,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":30
+   },
+   {
+      "number":31,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":29
+   },
+   {
+      "number":30,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":28
+   },
+   {
+      "number":29,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":27
+   },
+   {
+      "number":28,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":26
+   },
+   {
+      "number":27,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":25
+   },
+   {
+      "number":26,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":24
+   },
+   {
+      "number":25,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":23
+   },
+   {
+      "number":24,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":22
+   },
+   {
+      "number":23,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":21
+   },
+   {
+      "number":22,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":20
+   },
+   {
+      "number":21,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":19
+   },
+   {
+      "number":20,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":18
+   },
+   {
+      "number":19,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":17
+   },
+   {
+      "number":18,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":16
+   },
+   {
+      "number":17,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":15
+   },
+   {
+      "number":16,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":14
+   },
+   {
+      "number":15,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":13
+   },
+   {
+      "number":14,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":12
+   },
+   {
+      "number":13,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":11
+   },
+   {
+      "number":12,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":10
+   },
+   {
+      "number":11,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":9
+   },
+   {
+      "number":10,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":8
+   },
+   {
+      "number":9,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":7
+   },
+   {
+      "number":8,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":6
+   },
+   {
+      "number":7,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":5
+   },
+   {
+      "number":6,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":4
+   },
+   {
+      "number":5,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":3
+   },
+   {
+      "number":4,
+      "year":1987,
+      "released":false
+   },
+   {
+      "number":3,
+      "year":1987,
+      "arc":"part1",
+      "released":true,
+      "chapter":2
+   },
+   {
+      "number":2,
+      "year":1987,
+      "released":false
+   },
+   {
+      "number":1,
       "year":1987,
       "arc":"part1",
       "released":true,
